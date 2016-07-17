@@ -29,3 +29,12 @@ I may also
 * Share programs / workflows I find useful
 * Share others content
 * do whatever else I feel like
+
+## Technical progress
+
+* Currently forgotten how to make this a site
+
+- [x] Check URL works
+- [ ] Read this : https://help.github.com/categories/github-pages-basics/
+- [ ] Edit my theme to something I like
+- [ ] 

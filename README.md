@@ -35,6 +35,6 @@ I may also
 * Currently forgotten how to make this a site
 
 - [x] Check URL works
-- [ ] Read this : https://help.github.com/categories/github-pages-basics/
+- [ ] Read this : https://help.github.com/categories/github-pages-basics/ and this: https://help.github.com/categories/customizing-github-pages/
 - [ ] Edit my theme to something I like
-- [ ] 
+- [ ] Use my personal domain
